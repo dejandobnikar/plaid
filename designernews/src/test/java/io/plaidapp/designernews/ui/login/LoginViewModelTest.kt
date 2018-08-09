@@ -26,9 +26,6 @@ import io.plaidapp.core.data.Result
 import io.plaidapp.core.designernews.data.login.LoginRepository
 import io.plaidapp.core.designernews.data.users.model.User
 import io.plaidapp.core.util.event.Event
-import io.plaidapp.designernews.ui.login.LoginResultUiModel
-import io.plaidapp.designernews.ui.login.LoginUiModel
-import io.plaidapp.designernews.ui.login.LoginViewModel
 import io.plaidapp.test.shared.LiveDataTestUtil
 import io.plaidapp.test.shared.provideFakeCoroutinesContextProvider
 import kotlinx.coroutines.experimental.runBlocking
